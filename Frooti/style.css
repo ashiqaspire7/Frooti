@@ -1,0 +1,241 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#header{
+    height: 70px;
+    width: 100%;
+    background-color: rgb(3, 3, 47);
+    position: fixed;
+}
+#logo{
+    cursor: pointer;
+    padding-top: 25px;
+    padding-left: 25px;
+    height: 26.44px;
+    width: 119px;
+    float: left;
+}
+#cntc{
+    cursor: pointer;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: none;
+    padding-top: 25px;
+    padding-right: 27px;
+    font-size: 15px;
+    letter-spacing: 1px;
+    float: right;
+    background-color: rgb(3, 3, 47);
+    color: white;
+}
+#careers{
+    float: right;
+    border: none;
+    cursor: pointer;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(3, 3, 47);
+    color: white;
+    letter-spacing: 1px;
+    padding-top: 25px;
+    padding-right: 18px;
+    font-size: 15px;
+}
+#sustainability{
+    border: none;
+    float: right;
+    cursor: pointer;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(3, 3, 47);
+    color: white;
+    letter-spacing: 2px;
+    padding-top: 25px;
+    padding-right: 30px;
+    font-size: 14px;
+}
+#nroom{
+    border: none;
+    float: right;
+    cursor: pointer;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(3, 3, 47);
+    color: white;
+    letter-spacing: 1px;
+    padding-top: 25px;
+    padding-right: 18px;
+    font-size: 15px;
+}
+#bsns{
+    border: none;
+    float: right;
+    cursor: pointer;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(3, 3, 47);
+    color: white;
+    letter-spacing: 2px;
+    padding-top: 25px;
+    padding-right: 32px;
+    font-size: 14px;
+}
+#brands{
+    border: none;
+    float: right;
+    cursor: pointer;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(3, 3, 47);
+    color: white;
+    letter-spacing: 2px;
+    padding-top: 25px;
+    padding-right: 35px;
+    font-size: 14px;
+}
+#cmpny{
+    border: none;
+    float: right;
+    cursor: pointer;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(3, 3, 47);
+    color: white;
+    letter-spacing: 1px;
+    padding-top: 25px;
+    padding-right: 40px;
+    font-size: 14px;
+}
+#home{
+    border: none;
+    float: right;
+    cursor: pointer;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(3, 3, 47);
+    color: white;
+    letter-spacing: 1px;
+    padding-top: 25px;
+    padding-right: 22px;
+    font-size: 15px;
+}
+#home:hover{
+    color: red;
+}
+#cmpny:hover{
+    color: red;
+}
+#brands:hover{
+    color: red;
+}
+#bsns:hover{
+    color: red;
+}
+#nroom:hover{
+    color: red;
+}
+#sustainability:hover{
+    color: red;
+}
+#careers:hover{
+    color: red;
+}
+#cntc:hover{
+    color: red;
+}
+#homeimg{
+    margin: 0;
+    border: 0;
+}
+#homeimg{
+    width: 1519.2px;
+    height: 854.55px;
+}
+#home2{
+    width: 759.6px;
+    height: 1184px;
+    background-color: #f09130;
+    margin-top: -4px;
+    float: left;
+}
+#p1{
+    text-align: left;
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.3;
+    margin-left: 880px;
+    margin-top: 162px;
+}
+#p2{
+    text-align: left;
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.3;
+    margin-left: 880px;
+}
+#p3{
+    text-align: left;
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.3;
+    margin-left: 880px;
+}
+#fb{
+    cursor: pointer;
+    margin-left: 120px;
+}
+#homeimg2{
+    width: 1519.2px;
+    height: 854.55px;
+}
+#footer{
+    width: 100%;
+    height: 263px;
+}
+#ftr1{
+    margin-top: 30px;
+    margin-left: 65px;
+    width: 443.06px;
+    height: 120px;
+    line-height: 1.0;
+    float: left;
+}
+#ftr2{
+    cursor: pointer;
+    margin-top: 30px;
+    margin-left: 31px;
+    width: 443.06px;
+    height: 120px;
+    line-height: 1.0;
+    float: left;
+}
+.ftrlink:hover{
+    color: orangered;
+    text-decoration: underline;
+}
+#ftr3{
+    cursor: pointer;
+    margin-top: 30px;
+    margin-left: 31px;
+    width: 443.06px;
+    height: 120px;
+    line-height: 1.0;
+    float: left;
+}
+a{
+    font-size: 14px;
+    color: black;
+}
+#linkedin{
+    padding-top: 0px;
+    height: 41px;
+    width: 40px;
+}
+#ftricn{
+    padding-top: 1px;
+}
+#frooti{
+    font-size: 80px;
+    color: white;
+    text-align: center;
+    margin-top: -195px;
+}
+#anim{
+    width: 530.02px;
+    height: 192.34px;
+    padding-top: 500px;
+    padding-left: 113px;
+}
